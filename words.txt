@@ -1,26 +1,21 @@
 @title Word Adventure
 @showtext off
 
-# Unit 4 - Months
-🎆 | January
-❤️ | February
-🌬️ | March
-☔ | April
-🌸 | May
-🍦 | June
-🏖️ | July
-🍉 | August
-🎒 | September
-🎃 | October
-🍂 | November
-🎄 | December
-ask | When's your birthday? | It's in {w}.
+# Unit 4 - Free time
+🎻 | playing the violin
+💻 | surfing the Internet
+🚶 | going for a walk
+📚 | reading stories
+ask | What do you like doing in your free time? | I like {w}.
+yesno | Do you like {w}? | Yes, I do. | No, I don't.
 
-# Unit 5 - I can ...
-🍳 | cook a meal
-✏️ | draw a picture
-🧒➰ | jump rope
-🎤 | sing a song
-🛼 | roller skate
-yesno | Can you {w}? | Yes, I can. | No, I can't. | I can
-ask | What can you do? | I can {w}.
+# Unit 5 - Jobs
+🚒 | firefighter
+🎙️ | reporter
+🌱 | gardener
+✍️ | writer
+🍎 | teacher
+👩‍⚕️ | doctor
+👨‍🍳 | chef
+✂️ | hairdresser
+ask | What would you like to be in the future? | I'd like to be {a} {w}.
